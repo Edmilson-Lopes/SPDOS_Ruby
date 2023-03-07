@@ -15,7 +15,7 @@ end
 
     array = [5, 12, 15, 20, 25, 33, 41, 50 ]
 
-    numero_alvo = 40
+    numero_alvo = 12
 
     resultado = linear_search(array, numero_alvo)
 
