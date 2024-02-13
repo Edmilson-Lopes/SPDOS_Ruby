@@ -24,4 +24,4 @@ end
 
     else 
         p "O número alvo foi encontrado. "
-    end]
+    end
