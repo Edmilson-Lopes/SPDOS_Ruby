@@ -19,9 +19,10 @@ end
 
     resultado = linear_search(array, numero_alvo)
 
+
     if resultado == -1
         p "O número alvo não pôde ser encontrado."
 
     else 
-        p "O número alvo foi encontrado. "
+        p "O número alvo foi encontrado no index #{resultado} "
     end

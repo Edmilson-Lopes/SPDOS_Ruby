@@ -7,7 +7,7 @@ array = [5, 2, 9, 6, 12, 15, 1, 27, 20]
 
 def bubbleSort(array, length)
 
-    sorted = false
+   
     
     until sorted
     
@@ -21,6 +21,7 @@ def bubbleSort(array, length)
             end 
         end
     end
+    sorted = false
     return array
 end
 
