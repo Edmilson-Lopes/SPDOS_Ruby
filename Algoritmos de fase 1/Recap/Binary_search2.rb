@@ -29,9 +29,9 @@ end
 resultado = binary_search(arr, target)
 
 if resultado == -1 
-    p "O número não foi encontrado na lista"
+    p "O número não foi encontrado na lista!!!"
 
 else
-    p "o número foi encontrado na lista"
+    p "O número foi encontrado na lista!!!"
 end
 
