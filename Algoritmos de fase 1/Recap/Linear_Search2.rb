@@ -12,7 +12,7 @@ def search(array, numero_alvo)
     return -1 
 end
 
-array = [5, 12, 15, 20, 25, 33, 41, 50]
+array = [5, 12, 15, 20, 25, 33, 41, 51]
 
 numero_alvo = gets.chomp.to_i 
 
