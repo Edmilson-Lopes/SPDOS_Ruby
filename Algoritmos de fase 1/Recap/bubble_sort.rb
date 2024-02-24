@@ -1,5 +1,5 @@
 
-array = [5, 2, 9, 6, 12, 15, 1, 27, 20]
+array = [5, 2, 9, 6, 12, 15, 1, 27, 19]
 
 def bubbleSort(array, length)
 
