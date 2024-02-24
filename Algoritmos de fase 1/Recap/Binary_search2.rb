@@ -1,5 +1,5 @@
 
-arr = [5, 10, 12, 18, 25]
+arr = [5, 10, 12, 18, 30]
 
 print "Digite o Alvo: "
 target = gets.chomp.to_i
